@@ -2,4 +2,4 @@
 Canvas | JavaScript | Game Development
 
 
-https://refilwe-m-mashile.github.io/Coin-Collector-Game/
+https://refilwe-m.github.io/Coin-Collector-Game/
